@@ -1,0 +1,43 @@
+
+#masthead {
+    text-align: center;
+
+    font-size: 35px;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    font-style: italic;
+
+    color: red; 
+
+    border-bottom: 10px solid black;
+
+    line-height: 5px;
+  }
+
+
+  #game {
+
+    font-size: 30px;
+
+    float: left;
+
+    font-weight: 900;
+
+    font-family: 'Courier New', Courier, monospace;
+
+    line-height: 60px;
+
+    width: 50%; 
+
+  }
+
+  #carnac {
+
+    float: right;
+
+    padding-top: 20px;
+
+    padding-right: 30px;
+
+  }
